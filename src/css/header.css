@@ -1,0 +1,55 @@
+.cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 80px;
+}
+
+.logo{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    gap: 8px;
+}
+.logo-titulo{
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--cor-logo);
+}
+
+.paginas{
+    display: flex;
+    gap: 32px;
+}
+.paginas-link{
+    color: var(--cor-letrasCinza);
+    font-weight: 500;
+}
+
+.botoes{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    
+}
+.botoes-entrar{
+    color: var(--cor-letrasCinza);
+    background-color: transparent;
+    border: none;
+    padding: 8px 16px;
+    font-family: var(--font-principal);
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}
+.botoes-cadastrar{
+    color: var(--cor-fundo);
+    background-color: var(--cor-vermelho);
+    border: none;
+    border-radius: 16px;
+    padding: 8px 16px;
+    font-family: var(--font-principal);
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}

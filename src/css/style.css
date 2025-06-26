@@ -1,0 +1,17 @@
+@import url(./reset.css);
+@import url(./header.css);
+
+:root{
+    --font-principal: "Inter", sans-serif;
+    --cor-fundo: #ffffff;
+    --cor-vermelho: #8E2424;
+    --cor-logo: #3A404E;
+    --cor-letrasCinza: #667085;
+}
+
+body{
+    font-family: var(--font-principal);
+    background-color: var(--cor-fundo);
+    font-weight: 400;
+    font-size: 16px;
+}
