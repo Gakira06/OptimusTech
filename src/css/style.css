@@ -1,5 +1,6 @@
 @import url(./reset.css);
 @import url(./header.css);
+@import url(./sobreNos.css);
 
 :root{
     --font-principal: "Inter", sans-serif;
@@ -7,6 +8,7 @@
     --cor-vermelho: #8E2424;
     --cor-logo: #3A404E;
     --cor-letrasCinza: #667085;
+    --cor-tituloPreto: #101828;
 }
 
 body{
