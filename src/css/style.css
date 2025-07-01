@@ -1,6 +1,8 @@
 @import url(./reset.css);
 @import url(./header.css);
 @import url(./sobreNos.css);
+@import url(./metricas.css);
+@import url(./vagasAbertas.css);
 
 :root{
     --font-principal: "Inter", sans-serif;
@@ -9,6 +11,7 @@
     --cor-logo: #3A404E;
     --cor-letrasCinza: #667085;
     --cor-tituloPreto: #101828;
+    --cor-fundoDoSpan: #8E24240D;
 }
 
 body{
