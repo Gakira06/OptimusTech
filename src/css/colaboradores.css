@@ -1,0 +1,39 @@
+.colaboradores{
+    background-color: #C3191908;
+    margin: 0px 112px 96px 112px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.colaboradores-span{
+    color: var(--cor-vermelho);
+    margin-bottom: 16px;
+    margin-top: 64px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.colaboradores-titulo{
+    font-weight: 500;
+    font-size: 36px;
+    margin-bottom: 32px;
+    color: var(--cor-tituloPreto);
+}
+
+.colaboradores-img{
+    margin-bottom: 16px;
+}
+
+.colaboradores-nome{
+    color: var(--cor-tituloPreto);
+    font-weight: 500;
+    font-size: 16px;
+}
+.colaboradores-funcao{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cor-letrasCinza);
+    margin-bottom: 64px;
+}

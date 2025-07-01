@@ -3,6 +3,7 @@
 @import url(./sobreNos.css);
 @import url(./metricas.css);
 @import url(./vagasAbertas.css);
+@import url(./colaboradores.css);
 
 :root{
     --font-principal: "Inter", sans-serif;
